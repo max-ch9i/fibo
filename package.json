@@ -1,0 +1,24 @@
+{
+    "name": "fibo",
+    "version": "0.0.1",
+    "description": "A command-line tool to display fibonacci numbers.",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maximus8891/fibo.git"
+    },
+    "keywords": [
+        "nodejs"
+        ],
+    "author": "Max Chernyavskyi <xamydnah@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/maximus8891/fibo/issues"
+    },
+    "homepage": "https://github.com/maximus8891/fibo#readme",
+    "bin": {
+        "fibo": "./index.js"
+    }
+}
